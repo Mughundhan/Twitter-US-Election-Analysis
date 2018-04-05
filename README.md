@@ -1,5 +1,5 @@
 # Twitter-US-Election-Analysis
-A mini-project for Advanced Text Analytics course.
+Analyzed twitter data-set, mapped document term matrix to 2-D space and performed basic analysis to identify the most popular tweets / retweet usernames and most frequent pairs of hashtags.
 
 ### 1. Creating an Environment – Load datasets, tweet texts and retweet IDs
 ### 2. Data Cleansing
